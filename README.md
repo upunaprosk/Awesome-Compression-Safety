@@ -1,14 +1,19 @@
-# Quantization Side Effects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Compression Side Effects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Quantization improves efficiency but may compromise trustworthiness and model fairness. 
-This repo contains a curated list of papers and resources focused on the undesired effects of model quantization, including its impact on:
+Quantization and other model compression techniques significantly improve efficiency, but may also compromise trustworthiness, fairness, and overall model reliability.
 
-- Fairness  
-- Robustness  
-- Calibration  
-- Toxicity and safety.
+This repository provides a **curated list of papers, benchmarks, and resources** exploring the *undesired side effects* of model compression — particularly focusing on its impact on:
 
-Contributions are welcome — feel free to open a PR with missing papers.
+- **Fairness**  
+- **Robustness**  
+- **Calibration**  
+- **Toxicity and safety**
+
+<p align="center">
+  <img src="https://github.com/upunaprosk/Awesome-Compression-Safety/blob/master/figure-Page-2.png" alt="Compression Side Effects" width="400">
+</p>
+
+
 
 ## Paper list
 
