@@ -1,4 +1,4 @@
-# Compression Side Effects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Compression Impact on Fairness, Reliability, and Toxicity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Quantization and other model compression techniques significantly improve efficiency, but may also compromise trustworthiness, fairness, and overall model reliability.
 
